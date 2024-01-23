@@ -1,1 +1,2 @@
-# vip-sp24-DM-social-determinants
+# VIPD-CDSD
+Vertically Integrated Project: Diabetes and Chronic Diseases - Social Determinants Team
