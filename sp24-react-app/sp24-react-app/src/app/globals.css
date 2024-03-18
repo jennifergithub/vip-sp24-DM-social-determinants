@@ -105,3 +105,7 @@ body {
 .dropdown:hover .options {
   display: block;
 }
+
+.section {
+  padding-top: 30px;
+}
